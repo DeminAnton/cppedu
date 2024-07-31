@@ -8,50 +8,10 @@ Welcome to the **Introduction to C++** course! This two-week course is designed 
 ## Course Outline
 
 ### Week 1: Basics of C++
-- **Day 1:** Introduction to Programming
-  - What is programming?
-  - History of C++
-  - Setting up the development environment
-- **Day 2:** Writing Your First C++ Program
-  - Understanding the structure of a C++ program
-  - Basic syntax and Hello World
-- **Day 3:** Variables and Data Types
-  - Variables and constants
-  - Basic data types (int, float, char, etc.)
-- **Day 4:** Operators and Expressions
-  - Arithmetic operators
-  - Relational operators
-  - Logical operators
-- **Day 5:** Input and Output
-  - Using `cin` and `cout`
-  - Formatting output
-- **Day 6:** Control Structures
-  - If statements
-  - Switch statements
-- **Day 7:** Loops
-  - For loops
-  - While loops
-  - Do-while loops
+
 
 ### Week 2: Advanced Concepts
-- **Day 8:** Functions
-  - Function declaration and definition
-  - Parameters and return values
-- **Day 9:** Arrays
-  - Declaring and initializing arrays
-  - Accessing array elements
-- **Day 10:** Strings
-  - Working with C-strings
-  - Basic string operations
-- **Day 11:** Pointers
-  - Introduction to pointers
-  - Pointer arithmetic
-- **Day 12:** Structures
-  - Defining and using structures
-- **Day 13:** Basic File I/O
-  - Reading from and writing to files
-- **Day 14:** Project Day
-  - Creating a simple project that incorporates all the learned concepts
+
 
 ## How to Use This Repository
 
